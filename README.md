@@ -1,5 +1,6 @@
 # Circuit Central E-Commerce Platform
 Circuit Central is an e-commerce platform specializing in high-quality second-hand computers. This platform enables users to browse, purchase, and manage orders efficiently.
+![HomePage]()
 
 # :flying_disc: Technologies Used
 PHP (Backend)
